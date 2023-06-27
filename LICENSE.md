@@ -4,7 +4,7 @@ subdirectories below `xmlschemas/` for further details.
 
 Everything except `xmlschemas/` is subject to the MIT License below.
 
-Copyright (c) 2023 Zuse Institute Berlin https://www.zib.de/disc/digital-preservation
+Copyright (c) 2023 Zuse Institute Berlin (ZIB) https://www.zib.de/disc/digital-preservation  
 Copyright (c) 2023 AV-EFI https://github.com/AV-EFI/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
