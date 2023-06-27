@@ -1,4 +1,8 @@
-MIT License
+Different copyright notices and licenses apply to contents of the
+`xmlschemas/` subdirectory. See extra `LICENSE.md` files in the
+subdirectories below `xmlschemas/` for further details.
+
+Everything except `xmlschemas/` is subject to the MIT License below.
 
 Copyright (c) 2023 Zuse Institute Berlin https://www.zib.de/disc/digital-preservation
 Copyright (c) 2023 AV-EFI https://github.com/AV-EFI/

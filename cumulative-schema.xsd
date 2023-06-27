@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+Cumulative schema pulling in METS and EBUCore schema definitions. It
+can be used for validation, e.g. with xmllint.
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="file:///tmp/container/namespace" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd" />
+  <xs:import namespace="http://www.loc.gov/METS/" schemaLocation="http://www.loc.gov/standards/mets/mets.xsd" />
+  <xs:import namespace="urn:ebu:metadata-schema:ebucore" schemaLocation="http://www.ebu.ch/metadata/schemas/EBUCore/ebucore.xsd"/>
+</xs:schema>

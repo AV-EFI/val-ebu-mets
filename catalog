@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <rewriteURI uriStartString="http://www.w3.org/" rewritePrefix="xmlschemas/www.w3.org/"/>
+  <rewriteURI uriStartString="http://www.loc.gov/" rewritePrefix="xmlschemas/www.loc.gov/"/>
+  <rewriteURI uriStartString="http://dublincore.org/" rewritePrefix="xmlschemas/dublincore.org/"/>
+  <rewriteURI uriStartString="http://www.ebu.ch/" rewritePrefix="xmlschemas/www.ebu.ch/"/>
+  <nextCatalog catalog="/etc/xml/catalog"/>
+</catalog>
