@@ -15,6 +15,7 @@ document "valid" even if they do not have a clue about the EBUCore
 schema.
 
 This package provides:
+
 -   offline copies of the relevant XML schemas,
 -   an XML catalog file for libxml2 to locate those schemas,
 -   a wrapper schema importing the above, and
