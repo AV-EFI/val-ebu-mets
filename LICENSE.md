@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2023 AV-EFI
+Copyright (c) 2023 Zuse Institute Berlin https://www.zib.de/disc/digital-preservation
+Copyright (c) 2023 AV-EFI https://github.com/AV-EFI/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
