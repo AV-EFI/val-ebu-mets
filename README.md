@@ -32,3 +32,7 @@ Simply call the script `validate.sh` from this package as follows:
 ```console
 $ path/to/valid_ebu_mets/validate.sh <metsfile_containing_ebucore.xml>
 ```
+
+Please note that on Debian based systems the package libxml2-utils
+needs to be installed for this script to work, on Red Hat based
+systems it depends on the libxml2 package.
