@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- For syntax and semantics see:
+     https://www.oasis-open.org/committees/entity/spec.html
+-->
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="https://www.loc.gov/standards/mets/mets.xsd" uri="./xmlschemas/www.loc.gov/standards/mets/mets-strict.xsd"/>
+  <uri name="https://www.w3.org/1999/xlink.xsd" uri="./xmlschemas/www.w3.org/1999/xlink-strict.xsd"/>
+  <nextCatalog catalog="catalog"/>
+</catalog>

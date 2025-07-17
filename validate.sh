@@ -6,5 +6,5 @@ if [ "$#" == 0 ] ; then
     exit 2
 fi
 
-XML_CATALOG_FILES=${HERE}/catalog \
+XML_CATALOG_FILES=${HERE}/catalog-strict \
 xmllint --noout --schema "${HERE}/cumulative-schema.xsd" "$@"

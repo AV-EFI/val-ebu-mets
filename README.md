@@ -17,7 +17,10 @@ schema.
 This package provides:
 
 -   offline copies of the relevant XML schemas,
--   an XML catalog file for libxml2 to locate those schemas,
+-   a modified copy mets-strict.xsd which does not allow lax validation
+    on embedded XML elements,
+-   two XML catalog files for libxml2 to locate those schemas, one for
+    strict and one for default validation,
 -   a wrapper schema importing the above, and
 -   a shell script passing all required information to [xmllint][].
 
